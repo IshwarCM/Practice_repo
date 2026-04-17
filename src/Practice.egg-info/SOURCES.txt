@@ -1,0 +1,12 @@
+README.md
+pyproject.toml
+src/__init__.py
+src/Practice.egg-info/PKG-INFO
+src/Practice.egg-info/SOURCES.txt
+src/Practice.egg-info/dependency_links.txt
+src/Practice.egg-info/requires.txt
+src/Practice.egg-info/top_level.txt
+src/models/__init__.py
+src/models/temp.py
+src/stores/__init__.py
+src/utils/__init__.py
